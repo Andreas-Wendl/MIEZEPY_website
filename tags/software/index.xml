@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on MIEZEPY</title>
+    <link>https://scgmlz.github.io/MIEZEPY_website/tags/software/</link>
+    <description>Recent content in Software on MIEZEPY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://scgmlz.github.io/MIEZEPY_website/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Version 0.1.0 released</title>
+      <link>https://scgmlz.github.io/MIEZEPY_website/post/post-04/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/MIEZEPY_website/post/post-04/</guid>
+      <description>Version 0.1.0 released This is the first major fully functional release of the miezepy package. It will now enter a life cycle of small feature additions and extensions as well as case optimisation and GUI tweaks. The major additions following version 0.0.1 are the following:
+ The addition of a mask editor. It supports the positioning and editing of square, arc and triangular shapes on their own but also as linear and radial compositions.</description>
+    </item>
+    
+  </channel>
+</rss>

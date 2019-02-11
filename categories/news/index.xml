@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on MIEZEPY</title>
+    <link>https://scgmlz.github.io/MIEZEPY_website/categories/news/</link>
+    <description>Recent content in News on MIEZEPY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 24 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://scgmlz.github.io/MIEZEPY_website/categories/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Added installation instructions for windows</title>
+      <link>https://scgmlz.github.io/MIEZEPY_website/post/post-03/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/MIEZEPY_website/post/post-03/</guid>
+      <description>Installation instructions for Windows The installation instructions for windows were completed and should allow windows users to install MIEZEPY onto their platform.</description>
+    </item>
+    
+    <item>
+      <title>Version 0.1.0 released</title>
+      <link>https://scgmlz.github.io/MIEZEPY_website/post/post-04/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/MIEZEPY_website/post/post-04/</guid>
+      <description>Version 0.1.0 released This is the first major fully functional release of the miezepy package. It will now enter a life cycle of small feature additions and extensions as well as case optimisation and GUI tweaks. The major additions following version 0.0.1 are the following:
+ The addition of a mask editor. It supports the positioning and editing of square, arc and triangular shapes on their own but also as linear and radial compositions.</description>
+    </item>
+    
+    <item>
+      <title>Website live</title>
+      <link>https://scgmlz.github.io/MIEZEPY_website/post/post-01/</link>
+      <pubDate>Sat, 01 Dec 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://scgmlz.github.io/MIEZEPY_website/post/post-01/</guid>
+      <description>The MIEZEPY website is live The website has been designed using the already present scmlz hugo theme. This allowed a fast implementation. The website aims at providing important news as well as installation instructions. A few how-to&amp;rsquo;s and tutorials will also be proposed in the long term.</description>
+    </item>
+    
+    <item>
+      <title>Added installation instructions</title>
+      <link>https://scgmlz.github.io/MIEZEPY_website/post/post-02/</link>
+      <pubDate>Fri, 30 Nov 2018 18:28:35 +0100</pubDate>
+      
+      <guid>https://scgmlz.github.io/MIEZEPY_website/post/post-02/</guid>
+      <description>Installation instructions for Linux and MacOs The installation instruction for Linux and MacOs are now present on the website and can be found in the documentation section. Be aware that the instructions for linux might slightly differ depending on the distribution you are using. We hope it eases the installation process.</description>
+    </item>
+    
+  </channel>
+</rss>

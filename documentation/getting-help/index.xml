@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Getting help on MIEZEPY</title>
+    <link>https://scgmlz.github.io/MIEZEPY_website/documentation/getting-help/</link>
+    <description>Recent content in Getting help on MIEZEPY</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://scgmlz.github.io/MIEZEPY_website/documentation/getting-help/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://scgmlz.github.io/MIEZEPY_website/documentation/getting-help/troubleshooting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/MIEZEPY_website/documentation/getting-help/troubleshooting/</guid>
+      <description>Troubleshooting To report bugs or request help with problems in installing or running MIEZEPY, please create an issue on github or send us an e-mail. Provide all relevant information that may help us to analyse the issue. In particular, submit the full output of the last, unsuccessful command (screen copy, or redirection [command] &amp;gt;&amp;amp; [logfile]).</description>
+    </item>
+    
+    <item>
+      <title>Frequently asked questions</title>
+      <link>https://scgmlz.github.io/MIEZEPY_website/documentation/getting-help/frequently-asked-questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://scgmlz.github.io/MIEZEPY_website/documentation/getting-help/frequently-asked-questions/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

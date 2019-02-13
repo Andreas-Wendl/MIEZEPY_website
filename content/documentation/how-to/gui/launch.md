@@ -22,7 +22,7 @@ $ Mieze(True)
 ### GUI Elements
 Some of the described functionalities are also available over the tabs at the top. We will focus on the six main tabs on the left side of the GUI.
 #### Environments
-This tab provides a list of all environments, which have been created in your project.
+This tab provides a list of all environments, which have been created in your project. New environments can be added or removed via the +/- buttons on the top left.
 #### Data Loading
 This tab allows to load data from .tof files to the environment, which is currently selected in the environments-tab.
 #### Masks

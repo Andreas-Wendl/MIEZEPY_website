@@ -1,8 +1,8 @@
 +++
 title = "Masks"
-description = "Functionalities of the Environments tab"
+description = "Create and edit masks for data reduction"
 weight = 102
 +++
 
-## The Environments Tab
- tbd
+## The Masks Tab
+New masks can be created and existing masks edited.

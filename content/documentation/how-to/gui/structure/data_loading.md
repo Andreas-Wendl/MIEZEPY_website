@@ -4,7 +4,7 @@ description = "Importing data from .tof files"
 weight = 101
 +++
 
-## Data import
+## The Data Import Tab
  The functions of this page are described in order of there usage:
  
  1: New measurements can be created. One measurement should contain all data, which form one S(Q,t)-curve in the end.

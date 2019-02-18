@@ -1,8 +1,8 @@
 +++
 title = "Results"
-description = "Functionalities of the Environments tab"
+description = "Functionalities of the Results tab"
 weight = 104
 +++
 
-## The Environments Tab
- tbd
+## The Results Tab
+The results tab provides the plotting of the reduced data. Under construction, tbd
